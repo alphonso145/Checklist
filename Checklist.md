@@ -193,3 +193,48 @@
 - [ ] Produce code that can be understood and maintained by a third party.
 - [ ] Ensure the solution provides a high‑quality user experience.
 - [ ] Follow all relevant legal and regulatory guidelines and standards during development.
+
+# Activity D: Feedback and Data Analysis
+
+## Feedback Plan
+- [ ] State the aim of the feedback you will collect.
+- [ ] Identify the users you will gather feedback from and explain why they are suitable.
+- [ ] Choose the feedback methods you will use (for example, surveys or interviews).
+- [ ] Explain how you will run the feedback sessions.
+- [ ] Explain how you will record the data you collect.
+- [ ] Explain how you will analyse the data.
+- [ ] Describe how you will decide which improvements to make.
+
+## Survey Questions
+- [ ] Create survey questions for technical users.
+- [ ] Create survey questions for non‑technical users.
+
+## Interview Questions
+- [ ] Create interview questions for technical users.
+- [ ] Create interview questions for non‑technical users.
+
+## Data Analysis
+- [ ] Create a table for quantitative data analysis.
+- [ ] Produce charts to show key findings.
+- [ ] Identify qualitative themes from written or spoken feedback.
+- [ ] Compare results from different methods to check for consistency (triangulation).
+
+# Activity E: Evaluation of the Prototype
+
+## Evaluation of Assets and Content
+- [ ] Explain why the chosen assets and content were selected.
+- [ ] Explain why any other possible content was not used.
+- [ ] Comment on how valid and reliable the information sources were.
+- [ ] Identify any legal issues linked to the assets or content used.
+- [ ] Identify any ethical issues linked to the assets or content used.
+
+## Evaluation of the Digital Solution
+- [ ] Assess how well the solution meets the functional requirements.
+- [ ] Assess how well the solution meets the non-functional requirements.
+- [ ] Check how well the solution meets the KPIs.
+- [ ] Check how well the solution meets the user acceptance criteria.
+
+## Further Development
+- [ ] Identify areas of the prototype that could be improved.
+- [ ] Suggest realistic next steps for developing the solution further.
+
